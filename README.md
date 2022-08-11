@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jay Tran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Rising Sophomore at <a href="http://www.macalester.edu">Macalester College</a>
+<p><em>Rising Junior at <a href="http://www.macalester.edu">Macalester College</a>
 </em></p>
 
 [![Linkedin: JayTran](https://img.shields.io/badge/-JayTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-tran-1668b5192/)](https://www.linkedin.com/in/jay-tran-1668b5192/)
