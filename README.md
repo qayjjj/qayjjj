@@ -13,7 +13,7 @@ const jay = {
   pronouns: "she" | "her",
   education: [UWCIsakJapan, MacalesterCollege],
   location: {Vietnam: "Hanoi", US: "Minnesota"},
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Express, Bootstrap, MongoDB],
 }
 ```
