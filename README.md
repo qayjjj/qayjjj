@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jay Tran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Rising Junior at <a href="http://www.macalester.edu">Macalester College</a>
+<p><em>Senior at <a href="http://www.macalester.edu">Macalester College</a>
 </em></p>
 
 [![Linkedin: JayTran](https://img.shields.io/badge/-JayTran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jay-tran-1668b5192/)](https://www.linkedin.com/in/jay-tran-1668b5192/)
@@ -13,8 +13,8 @@ const jay = {
   pronouns: "she" | "her",
   education: [UWCIsakJapan, MacalesterCollege],
   location: {Vietnam: "Hanoi", US: "Minnesota"},
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Express, Bootstrap, MongoDB],
+  code: [Javascript, TypeScript, HTML, CSS, Python, Java],
+  tools: [React, Node, Express, Bootstrap, MongoDB, PostgreSQL],
 }
 ```
 
